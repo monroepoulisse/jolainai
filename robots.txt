@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shichoxiav.peanutbuttershoes.com/sitemap.xml
